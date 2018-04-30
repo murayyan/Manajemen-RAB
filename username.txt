@@ -1,0 +1,16 @@
+username dan password
+admin :
+
+richap = richap01
+asikin = asikin01
+nafil = nafil01
+
+
+karyawan :
+iskakp = iskakp01
+
+PM :
+toni = toni01
+
+manajemen :
+nikenwp = nikenwp01

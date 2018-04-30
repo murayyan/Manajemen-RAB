@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40">
+<Styles>
+<Style ss:ID="sDT"><NumberFormat ss:Format="Short Date"/></Style>
+</Styles>
+<Worksheet ss:Name="Sheet1">
+    <Table>
+        <Row>
+            <Cell><Data ss:Type="String">Kode Peminjaman</Data></Cell>
+            <Cell><Data ss:Type="String">Nama Karyawan</Data></Cell>
+            <Cell><Data ss:Type="String">Tanggal Peminjaman</Data></Cell>
+            <Cell><Data ss:Type="String">Nama Barang</Data></Cell>
+            <Cell><Data ss:Type="String">Jumlah Barang</Data></Cell>
+            <Cell><Data ss:Type="String">Kondisi Barang</Data></Cell>
+            <Cell><Data ss:Type="String">Merek Barang</Data></Cell>
+            <Cell><Data ss:Type="String">Type Barang</Data></Cell>
+            <Cell><Data ss:Type="String">Warna Barang</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="String">P2</Data></Cell>
+            <Cell><Data ss:Type="String">Niken Widowati Putri</Data></Cell>
+            <Cell><Data ss:Type="String">2018-01-01</Data></Cell>
+            <Cell><Data ss:Type="String">Handphone</Data></Cell>
+            <Cell><Data ss:Type="Number">11111111</Data></Cell>
+            <Cell><Data ss:Type="String">gendengg</Data></Cell>
+            <Cell><Data ss:Type="String">mboh</Data></Cell>
+            <Cell><Data ss:Type="String">toni</Data></Cell>
+            <Cell><Data ss:Type="String">elek</Data></Cell>
+        </Row>
+        <Row>
+            <Cell><Data ss:Type="String">P3</Data></Cell>
+            <Cell><Data ss:Type="String">Niken Widowati Putri</Data></Cell>
+            <Cell><Data ss:Type="String">2018-01-28</Data></Cell>
+            <Cell><Data ss:Type="String">Handphone</Data></Cell>
+            <Cell><Data ss:Type="Number">10</Data></Cell>
+            <Cell><Data ss:Type="String">b</Data></Cell>
+            <Cell><Data ss:Type="String">b</Data></Cell>
+            <Cell><Data ss:Type="String">b</Data></Cell>
+            <Cell><Data ss:Type="String">b</Data></Cell>
+        </Row>
+    </Table>
+</Worksheet>
+</Workbook>
